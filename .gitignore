@@ -47,7 +47,7 @@ target
 /target/
 **/target/
 
-# Sprint Tools 
+# Sprint Tools
 *.sts4-cache
 *.sts3-cache
 .attach_pid*
